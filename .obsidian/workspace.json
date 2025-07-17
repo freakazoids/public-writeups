@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20241111161625.png"
+                "file": "2024/_img/Pasted image 20241111161625.png"
               },
               "icon": "lucide-image",
               "title": "Pasted image 20241111161625"
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20241111161625.png",
+                "file": "2024/_img/Pasted image 20241111161625.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20241111161625.png",
+                "file": "2024/_img/Pasted image 20241111161625.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20241111161625.png"
+                "file": "2024/_img/Pasted image 20241111161625.png"
               },
               "icon": "lucide-list",
               "title": "Outline of Pasted image 20241111161625"
@@ -171,19 +171,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21b406931e02ae5d",
+  "active": "dc0fe2b52257d6f4",
   "lastOpenFiles": [
-    "2024/Flare-On/checksum.md",
-    "Pasted image 20241111173259.png",
-    "Pasted image 20241111173225.png",
-    "Pasted image 20241111171701.png",
-    "Pasted image 20241111171448.png",
-    "Pasted image 20241111171329.png",
-    "Pasted image 20241111171147.png",
-    "Pasted image 20241111170255.png",
-    "Pasted image 20241111165724.png",
-    "Pasted image 20241111164147.png",
-    "Pasted image 20241111163925.png",
+    "2024/_img",
+    "2024/_img/Flare-On/checksum.md",
+    "2024/_img/Pasted image 20241111173259.png",
+    "2024/_img/Pasted image 20241111173225.png",
+    "2024/_img/Pasted image 20241111171701.png",
+    "2024/_img/Pasted image 20241111171448.png",
+    "2024/_img/Pasted image 20241111171329.png",
+    "2024/_img/Pasted image 20241111171147.png",
+    "2024/_img/Pasted image 20241111170255.png",
+    "2024/_img/Pasted image 20241111165724.png",
+    "2024/_img/Pasted image 20241111164147.png",
+    "2024/_img/Pasted image 20241111163925.png",
     "README.md"
   ]
 }
